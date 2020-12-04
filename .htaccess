@@ -1,0 +1,12 @@
+RewriteEngine On
+Options -MultiViews
+Options -Indexes
+
+RewriteBase /sinama
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+#ErrorDocument 404 controller/error.php
+
+RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]

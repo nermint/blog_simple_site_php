@@ -1,0 +1,7 @@
+Time : 17:44:51
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list'
+Raw SQL : update admin set title =:1
+
+Time : 17:42:48
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list'
+Raw SQL : update admin set title =:1

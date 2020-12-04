@@ -1,0 +1,48 @@
+
+.header-side{
+    color: rgb(73, 142, 221) !important;
+    font-weight: bold !important;
+}
+
+.eye-open-close .eye-side{
+    position: absolute;
+    font-size: 22px !important;
+    top: 8px;
+    right: 5px;
+    cursor: pointer;
+    cursor: pointer;
+}
+.close-eye{
+    font-family: fontawesome !important;
+    font-size: 20px !important;
+    position: absolute;
+    top: 18px;
+    right: 5px;
+    cursor: pointer;
+    
+}
+
+.eye-side-msg{
+    font-size: 19px !important;
+}
+.read-btn{
+    text-decoration: none;
+    background-color: rgb(133, 125, 125);
+    color: white;
+}
+.read-btn:hover{ color: white;}
+
+.icon-services{
+    color: #f4623a !important;
+    font-family: "Font Awesome 5 Free" !important;
+    font-size: 35px !important;
+}
+
+.project-img{
+    width: 150px;
+    height: 100px !important;
+}
+
+.editimg{
+    width: 200px !important;
+}

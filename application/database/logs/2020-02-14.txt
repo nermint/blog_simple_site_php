@@ -1,0 +1,11 @@
+Time : 18:58:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'seen' in 'where clause'
+Raw SQL : select * from services where seen=0
+
+Time : 10:27:01
+SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+
+Time : 10:27:01
+SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+

@@ -1,0 +1,19 @@
+Time : 17:38:04
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'heading' cannot be null
+Raw SQL : insert into  project(heading,project_name,img,time) values(:1,:2,:3,:4)
+
+Time : 17:37:15
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'heading' cannot be null
+Raw SQL : insert into  project(heading,project_name,img,time) values(:1,:2,:3,:4)
+
+Time : 17:36:55
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'heading' cannot be null
+Raw SQL : insert into  project(heading,project_name,img,time) values(:1,:2,:3,:4)
+
+Time : 17:36:14
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'heading' cannot be null
+Raw SQL : insert into  project(heading,project_name,img,time) values(:1,:2,:3,:4)
+
+Time : 17:36:08
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'heading' cannot be null
+Raw SQL : insert into  project(heading,project_name,img,time) values(:1,:2,:3,:4)
